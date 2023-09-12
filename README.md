@@ -42,6 +42,3 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ohnoimded&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ohnoimded&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
